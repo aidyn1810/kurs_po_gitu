@@ -1,2 +1,4 @@
 # kurs_po_gitu
-Git Examples
+Git Exampls 
+Update 1
+:quit
